@@ -1,6 +1,6 @@
 # ⚖️ Sistema de Gestão de Escritório Advocatício
 
-Um sistema RESTful para gerenciamento de escritórios de advocacia desenvolvido em **Java** com **Spring Boot**. A aplicação oferece suporte para gestão das principais entidades do domínio jurídico: **Advogados**, **Clientes**, **Processos** e **Documentos**.
+Um sistema para gerenciamento de escritórios de advocacia desenvolvido em **Java** com **Spring Boot**. A aplicação oferece suporte para gestão das principais entidades do domínio jurídico: **Advogados**, **Clientes**, **Processos** e **Documentos**.
 
 ## 🛠️ Tecnologias Utilizadas
 
