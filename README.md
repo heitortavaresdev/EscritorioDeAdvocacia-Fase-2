@@ -84,3 +84,5 @@ escritorio/
 * `POST /api/documentos` - Anexa/cadastra um novo documento.
 * `PUT /api/documentos/{id}` - Atualiza as informações de um documento.
 * `DELETE /api/documentos/{id}` - Remove um documento.
+
+### **Autor: Heitor Queiroga Tavares**
